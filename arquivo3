@@ -1,0 +1,10 @@
+Veja, o náutico é o melhor time de pernambuco/nordeste
+a
+Aceite os factos e as vericidades
+
+if(nautico == joga partida) {
+	nautico == ganha
+} else {
+	ganha;
+	return true;
+}
